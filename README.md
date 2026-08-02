@@ -51,8 +51,14 @@ This repository includes the complete software engineering documentation, includ
 - Software Testing
 
 ---
+## Screenshots
 
+### User Interface
 
+<p align="center">
+  <img src="Screenshots/interface.png" alt="MIHN Interface" width="800">
+</p>
+---
 ## My Contributions
 
 I contributed to multiple phases of the project, including:
