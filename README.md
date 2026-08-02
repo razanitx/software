@@ -51,16 +51,7 @@ This repository includes the complete software engineering documentation, includ
 - Software Testing
 
 ---
-## Repository Structure
 
-```
-src/
-database/
-docs/
-images/
-```
-
----
 
 ## My Contributions
 
