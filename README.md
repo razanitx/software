@@ -50,14 +50,6 @@ This repository includes the complete software engineering documentation, includ
 - Interface Design
 - Software Testing
 
----
-## Screenshots
-
-### User Interface
-
-<p align="left">
-  <img src="image/interface.jpg" alt="MIHN Interface">
-</p>
 
 ---
 
@@ -72,4 +64,22 @@ I contributed to multiple phases of the project, including:
 - Participated in software testing and validation.
 - Implemented key system features, including the Provider View Requests, Index, and Edit Service functionalities.
 - Contributed to the integration hierarchy discussion and overall system integration.
+
+---
+
+ ## Screenshots
+
+### User Interface
+
+<p align="left">
+  <img src="image/interface.jpg" alt="MIHN Interface">
+</p>
+
+---
+## Documentation
+
+The complete project documentation is available here:
+
+📄 [MIHN Software Engineering Documentation](docs/MIHN_Documentation.pdf)
+
 
