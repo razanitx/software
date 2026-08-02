@@ -56,7 +56,7 @@ This repository includes the complete software engineering documentation, includ
 ### User Interface
 
 <p align="left">
-  <img src="images/interface.jpg" alt="MIHN Interface">
+  <img src="image/interface.jpg" alt="MIHN Interface">
 </p>
 
 ---
