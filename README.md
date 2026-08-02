@@ -80,6 +80,6 @@ I contributed to multiple phases of the project, including:
 
 The complete project documentation is available here:
 
-📄 [MIHN Software Engineering Documentation](docs/MIHN_Documentation.pdf)
+📄 [MIHN Software Documentation](docs/MIHN_Documentation.pdf)
 
 
